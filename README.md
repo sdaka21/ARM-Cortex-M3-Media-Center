@@ -7,20 +7,20 @@ An embedded multimedia system developed for the NXP LPC1768 ARM Cortex-M3 microc
 ## Project Demo
 
 ### Photo Gallery
-![Photo Gallery](BabyMeme_PhotoGallry.jpg)
+![Photo Gallery](BabyMeme_PhotoGallry.jpeg)
 *Photo gallery displaying images with joystick navigation*
-![Photo Gallery](Palmer_PhotoGallery.jpg)
+![Photo Gallery](Palmer_PhotoGallery.jpeg)
 
 ### Pong Game
-![Pong Gameplay](PingPong.jpg)
+![Pong Gameplay](PingPong.jpeg)
 *Multi-ball Pong with AI opponent and score tracking*
 
 ### Game Center Menu
-![Game Center Menu](GameCenter_Menu.jpg)
+![Game Center Menu](GameCenter_Menu.jpeg)
 *Game selection interface with Pong and Collector options*
 
 ### Main Menu 
-![Game Center Menu](Main_Menu.jpg)
+![Game Center Menu](Main_Menu.jpeg)
 
 ## Features
 
